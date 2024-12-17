@@ -1,0 +1,7 @@
+requests
+aiohttp
+pandas
+numpy
+matplotlib
+plotly
+jupyter
